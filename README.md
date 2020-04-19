@@ -2,7 +2,7 @@
 
 Sentiment Analysis is the process of determining whether a piece of writing is positive, negative or neutral. A sentiment analysis system for text analysis combines natural language processing (NLP) and machine learning techniques to assign weighted sentiment scores to the entities, topics, themes and categories within a sentence or phrase.
 
-In this project i have trained a sentiment analysis model on "IMDB review dataset" using two encoding methods which are "Tf-idf" and "BERT". 
+### In this project i have trained a sentiment analysis model on "IMDB review dataset" using two encoding methods which are "Tf-idf" and "BERT".
 
 ## Data Description
 IMDB dataset having 50K movie reviews for natural language processing or Text analytics.
@@ -11,13 +11,19 @@ This is a dataset for binary sentiment classification containing substantially m
 For more dataset information, please go through the following link,
 http://ai.stanford.edu/~amaas/data/sentiment/
 
-## Tf-idf:
+### Note: I have included the data in the repository itself but you can also download it from kaggle using this API command
+      kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+      
+### To know how to use kaggle in Google colab follow this link here
+   https://towardsdatascience.com/setting-up-kaggle-in-google-colab-ebb281b61463
+
+## What is Tf-idf?:
 In information retrieval, tf–idf or TFIDF, short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. It is often used as a weighting factor in searches of information retrieval, text mining, and user modeling.
 
 ### Learn more about Tf-idf from here:
    https://monkeylearn.com/blog/what-is-tf-idf/
 
-## BERT:
+## What is BERT?:
 BERT, which stands for Bidirectional Encoder Representations from Transformers, is a neural network-based technique for natural language processing pre-training. In plain English, it can be used to help Google better discern the context of words in search queries.
 
 For example, in the phrases “nine to five” and “a quarter to five,” the word “to” has two different meanings, which may be obvious to humans but less so to search engines. BERT is designed to distinguish between such nuances to facilitate more relevant results.
