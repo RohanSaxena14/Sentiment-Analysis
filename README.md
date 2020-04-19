@@ -15,7 +15,7 @@ http://ai.stanford.edu/~amaas/data/sentiment/
 In information retrieval, tf–idf or TFIDF, short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. It is often used as a weighting factor in searches of information retrieval, text mining, and user modeling.
 
 ### Learn more about Tf-idf from here:
-    https://monkeylearn.com/blog/what-is-tf-idf/
+   https://monkeylearn.com/blog/what-is-tf-idf/
 
 ## BERT:
 BERT, which stands for Bidirectional Encoder Representations from Transformers, is a neural network-based technique for natural language processing pre-training. In plain English, it can be used to help Google better discern the context of words in search queries.
@@ -23,4 +23,4 @@ BERT, which stands for Bidirectional Encoder Representations from Transformers, 
 For example, in the phrases “nine to five” and “a quarter to five,” the word “to” has two different meanings, which may be obvious to humans but less so to search engines. BERT is designed to distinguish between such nuances to facilitate more relevant results.
 
 ### Learn more about BERT from here:
-    https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+   https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
